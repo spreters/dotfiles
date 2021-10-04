@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 72.magnus@gmail.com
+	name = Magnus Nilsson
